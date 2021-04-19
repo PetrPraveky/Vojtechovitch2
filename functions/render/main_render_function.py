@@ -1,0 +1,1 @@
+#Modul pro funkce hlavního renderu
